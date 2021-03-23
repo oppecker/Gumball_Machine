@@ -1,0 +1,7 @@
+{
+  "test one":[10, "R", "C"],
+  "test two":["R"],
+  "test three":[100, "Y", "C"],
+  "test four":[5, "R", 5, "R", "C"],
+  "test five":["bad currency", "Y", "R"]
+}
